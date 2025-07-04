@@ -27,11 +27,5 @@ git clone https://github.com/Chirag037/Ascii-generator
 cd Ascii-generator
 pip install Pillow
 ▶️ Run the GUI
-```
-```bash
-
-Copy code
 python scripts/ascii_gui.py
-📝 License
-MIT License
 ```
